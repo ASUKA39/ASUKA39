@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there I'm a39 👋
+
+- :hammer: "What I cannot create, I do not understand."
+- :thinking: I'm interested in and currently learning database system, LLVM, Linux kernel, binary security etc.
+- :arrows_counterclockwise: I'll follow you back if your Github can let me know who you are explicitly :) 
+
+![a39's stats](https://github-readme-stats.vercel.app/api?username=ASUKA39&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASUKA39&layout=compact&hide=html)
 
 <!--
 **ASUKA39/ASUKA39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![a39's stats](https://github-readme-stats.vercel.app/api?username=ASUKA39&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ASUKA39&layout=compact&hide=html)
