@@ -20,6 +20,9 @@
       <td>
          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASUKA39&layout=compact&langs_count=8&theme=dark" alt="Most used languages" />
       </td>
+      <td>
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arthur-Delacroix&theme=vue&hide_border=true" alt="Streak Stats" />
+      </td>
     </tr>
   </table>
 </div>
